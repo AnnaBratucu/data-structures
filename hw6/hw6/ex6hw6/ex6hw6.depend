@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491211374 source:c:\users\ana\desktop\facultate\dsa\hw2\hw6\ex6hw6\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

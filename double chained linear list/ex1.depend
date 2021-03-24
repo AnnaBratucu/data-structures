@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492897691 source:c:\users\ana\desktop\facultate\dsa\big hw2\ex1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

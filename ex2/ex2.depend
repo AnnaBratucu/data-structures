@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494676848 source:c:\users\ana\desktop\facultate\dsa\big hw3\ex2\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+

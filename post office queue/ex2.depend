@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491156689 source:c:\users\ana\desktop\ex2\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

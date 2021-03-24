@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494597856 source:c:\users\ana\desktop\facultate\dsa\big hw3\ex1.4\main.cpp
+	<cstdio>
+	<vector>
+	<list>
+	<utility>
+
